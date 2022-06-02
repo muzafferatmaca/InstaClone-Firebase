@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596725046639",
+    "project_id": "kotlininstaexample",
+    "storage_bucket": "kotlininstaexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596725046639:android:cb4cf5da41b8bfd7825c9a",
+        "android_client_info": {
+          "package_name": "com.muzafferatmaca.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596725046639-tcj3c4rekvv5s6mqe2d9jcso3kqp2bvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWcheCBq9Gp8V3CFolM-mitu5YtQpcM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596725046639-tcj3c4rekvv5s6mqe2d9jcso3kqp2bvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
